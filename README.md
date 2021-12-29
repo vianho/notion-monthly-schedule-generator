@@ -12,7 +12,7 @@
 A script to create pages on notion to remind myself to keep in touch with people. 
 
 ## The Notion Table
-![Notion Table]("https://raw.githubusercontent.com/vianho/notion-monthly-schedule-generator/main/table.png")
+![Notion Table](https://raw.githubusercontent.com/vianho/notion-monthly-schedule-generator/main/table.png)
 
 ## Why am I doing this?
 It's some new year resolution thing...
