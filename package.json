@@ -1,0 +1,16 @@
+{
+  "name": "notion-daily-communication",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Notion integration to keep track of my new year resolution thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vianho",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^0.4.11",
+    "dotenv": "^10.0.0"
+  }
+}
